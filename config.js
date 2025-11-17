@@ -1,10 +1,14 @@
 // Configuración del portafolio
 const configuracion = {
-    nombreEquipo: "Equipo [nombre]",
+    nombreEquipo: "AJK",
     version: "1.0.0",
-    fechaCreacion: "2024-11-14",
+    fechaCreacion: "2025-11-14",
     miembros: [
-        // Cada miembro añadirá su información aquí
+		{
+			nombre: "Alexis Sevilla Serrano",
+			rol: "Desarrollador de Funcionalidades Web",
+			github: "Alexis(https://github.com/Alexis15014)"
+		}
     ]
 };
 
