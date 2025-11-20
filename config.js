@@ -8,7 +8,13 @@ const configuracion = {
 			nombre: "Alexis Sevilla Serrano",
 			rol: "Desarrollador de Funcionalidades Web",
 			github: "Alexis(https://github.com/Alexis15014)"
-		}
+		},
+        {
+            nombre: "Kevin Alejandro Almeida Camacho",
+            rol:"Diseñador Web",
+            github:"keviin17"
+
+        }
     ]
 };
 
