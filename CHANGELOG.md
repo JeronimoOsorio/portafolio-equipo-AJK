@@ -8,3 +8,8 @@ Todos los cambios notables del proyecto se documentarán aquí.
 - Páginas HTML (index y proyectos)
 - Estilos base CSS
 - Configuración JavaScript
+
+## En desarrollo - 2025-11-17
+### Añadido
+- Tarjeta de presentación de Jeronimo Osorio por @JeronimoOsorio
+- Proyecto AJK por @JeronimoOsorio
