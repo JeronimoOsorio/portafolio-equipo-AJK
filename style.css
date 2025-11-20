@@ -74,6 +74,12 @@ footer {
     box-shadow: 0 4px 8px rgba(0,0,0,0.2);
 }
 
+/* Estilo personalizado de Jeronimo */
+.miembro-[Jeronimo] {
+    background: linear-gradient(135deg, #ffffff 0%, #850fd3 100%);
+    color: white;
+}
+
 /* Estilos para proyectos */
 .proyecto {
     border-left: 4px solid #667eea;
